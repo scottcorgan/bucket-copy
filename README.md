@@ -29,8 +29,10 @@ bucketCopy('some_dirctory_in_a_bucket', function (err) {
 
 // OR
 
-bucketCopy('some_dirctory_in_a_bucket', 'some_directory_prefix', function (err) {
+bucketCopy('some_dirctory_in_a_bucket', 'new_bucket_directory_prefix', function (err) {
   // All done and copied, unless you messed up
 });
 
 ```
+
+The directory prefix allows you to put then entire set of copied objects into a new root object when they are copied to the new bucket.
