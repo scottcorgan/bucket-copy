@@ -35,4 +35,4 @@ bucketCopy('some_dirctory_in_a_bucket', 'new_bucket_directory_prefix', function 
 
 ```
 
-The directory prefix allows you to put then entire set of copied objects into a new root object when they are copied to the new bucket.
+The directory prefix allows you to put the entire set of copied objects into a new root object when they are copied to the new bucket.
