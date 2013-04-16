@@ -1,0 +1,21 @@
+{
+  "name": "bucket-copy",
+  "version": "0.3.0",
+  "description": "Copy Amazon S3 bucket objects to another bucket.",
+  "main": "index.js",
+  "dependencies": {
+    "async": "~0.2.7",
+    "aws2js": "~0.8.3",
+    "bucket-list": "~0.3.x"
+  },
+  "repository": "",
+  "keywords": [
+    "amazon",
+    "aws",
+    "s3",
+    "bucket",
+    "copy"
+  ],
+  "author": "Scott Corgan",
+  "license": "BSD"
+}
