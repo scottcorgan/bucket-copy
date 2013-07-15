@@ -4,9 +4,7 @@ Copy Amazon S3 bucket objects to another bucket.
 
 ## Install
 
-```
-npm install bucket-copy --save
-```
+[![NPM](https://nodei.co/npm/bucket-copy.png)](https://nodei.co/npm/bucket-copy/)
 
 ## Usage
 
